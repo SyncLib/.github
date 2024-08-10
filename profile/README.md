@@ -1,5 +1,13 @@
 <div align="center">
 
-  <img width="650" height="250" src="https://imgur.com/a/smT3uGP">
+  # 🪐 SyncLib
+
+**Top-tier resources** for the **FiveM QBCore Framework**.
+
+`Performance and Quality, Extensive Customization, and Community-Driven Development`
+
+  # 🎂 Links
+
+🚧 Under Development
 
 </div>
