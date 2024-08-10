@@ -6,6 +6,12 @@
 
 `Performance and Quality, Extensive Customization, and Community-Driven Development`
 
+  # 📫 Latest Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
+
   # 🎂 Links
 
 🚧 Under Development
