@@ -2,7 +2,7 @@
 
   # 🪐 SyncLib
 
-**Top-tier resources** for the **FiveM QBCore Framework**.
+SyncLib delivers **high-quality free**, **open source** FiveM Resources.
 
 `Performance and Quality, Extensive Customization, and Community-Driven Development`
 
