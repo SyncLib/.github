@@ -10,7 +10,7 @@ SyncLib delivers **high-quality free**, **open source** FiveM Resources.
 
 [GitHub](https://github.com/SyncLib)
 [YouTube](https://www.youtube.com/@SyncLib)
-[Website](https://synclib.carrd.co)
+[Linktree](https://linktr.ee/SyncLib)
 [Patreon](https://patreon.com/SyncLib)
 [Documentation](https://synclib.gitbook.io/synclib)
 [Discord Server](https://discord.gg/GBPAGDmegX)
